@@ -4,6 +4,10 @@ This is php parser for .csv and .tsv files
 
 To donwload just clone the repository.
 
+Use composer 
+
+    composer dump-autoload
+    
 Usage
     goto commond line 
     
